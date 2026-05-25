@@ -71,7 +71,6 @@ make it work • make it right • make it fast
 -->
 <img src="https://lastfm-recently-played.vercel.app/api?user=luwateti&count=1&width=500" alt="lastfm" />
 <br>
-<span style="font-size:smaller;">(Set your Last.fm username in the link above for this to work!)</span>
 </div>
 
 ---
