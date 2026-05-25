@@ -81,7 +81,7 @@ make it work • make it right • make it fast
 <!-- Replace the # links with your real URLs -->
 <a href="#"><img src="https://img.shields.io/badge/Website-0b0f1a?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Website" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0b0f1a?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-0b0f1a?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" /></a>
+<a href="mailto:oluwatetisimik@gmail.com"><img src="https://img.shields.io/badge/Email-0b0f1a?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" /></a>
 </div>
 
 ---
