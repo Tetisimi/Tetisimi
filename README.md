@@ -17,7 +17,7 @@
 
 ```txt
 $ whoami
-Tetisimi
+Teti
 
 $ uname -a
 human / builder / debugger / perpetual learner
