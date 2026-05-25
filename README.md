@@ -69,7 +69,7 @@ make it work • make it right • make it fast
   1. Register at https://www.last.fm/join and connect it to your music service.
   2. Set your Last.fm username by replacing `spintheta` in the API link below with your real username.
 -->
-<img src="https://lastfm-recently-played.vercel.app/api?user=spintheta&count=1&width=500" alt="lastfm" />
+<img src="https://lastfm-recently-played.vercel.app/api?user=luwateti&count=1&width=500" alt="lastfm" />
 <br>
 <span style="font-size:smaller;">(Set your Last.fm username in the link above for this to work!)</span>
 </div>
