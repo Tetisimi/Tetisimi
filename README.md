@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Dark, geeky hero -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Teti;I+build+things+that+compile+and+ship;Coffee+fuels+my+debugging+;Always+chasing+clean+builds" alt="Hi I'm Teti" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Teti;I+build+things+that+compile+and+ship;I'm+probably+watching+anime+;Always+chasing+clean+builds" alt="Hi I'm Teti" />
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0b0f1a,100:111827&text=//%20Teti&fontColor=00E5FF&fontAlignY=35&desc=dark%20vibes%20%7C%20clean%20builds%20%7C%20curiosity%20driven" alt="Capsule header" />
 
