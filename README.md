@@ -92,7 +92,7 @@ make it work • make it right • make it fast
   If it is not showing, you need to add and enable the GitHub Actions workflow in your repo.
   Let me know if you want help with the setup!
 -->
-<img src="https://raw.githubusercontent.com/Tetisimi/Tetisimi/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Tetisimi/Tetisimi/main/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Tetisimi&style=for-the-badge&color=0b0f1a" alt="profile views" />
 </div>
