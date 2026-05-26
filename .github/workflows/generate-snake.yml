@@ -20,7 +20,7 @@ jobs:
         with:
           github_user_name: Tetisimi
           outputs: |
-            ./output/github-contribution-grid-snake-dark.svg?color_snake=00E5FF&color_dots=0b0f1a,111827,1e293b
+            ./output/github-contribution-grid-snake-dark.svg?color_snake=00E5FF,22d3ee,7c3aed&color_dots=0b0f1a,1e293b,111827&color_bg=00000000
 
       - name: Push generated SVG back to the output branch
         uses: EndBug/add-and-commit@v9
